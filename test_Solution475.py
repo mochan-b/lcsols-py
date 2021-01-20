@@ -45,7 +45,7 @@ def test_solution475_6():
     assert solution.findRadius(houses, heaters) == 161834419
 
 
-def test_solution475_6():
+def test_solution475_7():
     houses = [474833169, 264817709, 998097157, 817129560]
     heaters = [197493099, 404280278, 893351816, 505795335]
     solution = Solution475()
