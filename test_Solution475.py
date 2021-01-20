@@ -1,5 +1,4 @@
 from Solution475 import Solution475
-import pytest
 
 
 def test_solution475_1():
